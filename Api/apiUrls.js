@@ -1,0 +1,1 @@
+export const POST_QUESTION_URL = 'https://3nxqfnf6td.execute-api.eu-west-1.amazonaws.com/Dev/questions';
